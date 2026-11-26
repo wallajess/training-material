@@ -5,15 +5,15 @@ destination:
   description: Galaxy Training Network Material
   synopsis: Galaxy Training Network Material. See https://training.galaxyproject.org
 items:
-- name: New topic
-  description: Topic summary
+- name: The new topic
+  description: Summary
   items:
-  - name: MFA Tutorial
+  - name: Phonetic research with MFA, Praat, and new-FAVE
     items:
     - name: 'DOI: 10.5281/zenodo.21371207'
       description: latest
       items:
-      - url: https://zenodo.org/api/records/21371207/files/the_fox_and_the_grapes.zip
+      - url: https://zenodo.org/api/records/21371207/files/the_fox_and_the_grapes.zip/content
         src: url
-        ext: ''
+        ext: auto
         info: https://zenodo.org/records/21371207
